@@ -1,6 +1,3 @@
-#PROJECT - 3(CSE-5306-001-DISTRIBUTED SYSTEMS)
-
-#import LIB
 
 import time
 import xmlrpc.client
