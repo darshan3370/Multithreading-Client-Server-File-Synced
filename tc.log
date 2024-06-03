@@ -1,0 +1,16 @@
+
+ Request 1 transfer from 7 to 8 of value 10
+
+Prepare 1 transfer from 7 to 8 of value 10
+
+Commit 1 transfer from 7 10 server1 
+
+ Commit 1 transfer to 8 10 server 2 
+
+ Request 1 transfer from 9 to 10 of value 10
+
+Prepare 1 transfer from 9 to 10 of value 10
+
+Commit 1 transfer from 9 10 server1 
+
+Commit 1 transfer to 10 10 server2 

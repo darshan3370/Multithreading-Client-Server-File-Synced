@@ -1,0 +1,13 @@
+Request 1 transfer 1 10
+>>>Abort.... 
+Prepare 1
+No transfer 1 10 1Request 1 transfer 3 10
+Prepare 1
+Yes transfer 3 10 1
+>>>Abort.... Request 1 transfer 8 10
+Prepare 1
+Yes transfer 8 10 1
+>>Commit Transaction ID......1Request 1 transfer 10 10
+Prepare 1
+Yes transfer 10 10 1
+>>>The Commit Transaction ID1
